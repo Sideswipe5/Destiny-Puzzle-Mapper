@@ -1,0 +1,30 @@
+body{
+    color:white;
+    background-color:black;
+    font-family:arial;
+}
+#title{
+    font-size:50px;
+}
+#type{
+    border-collapse:collapse;
+}
+#type tr{
+    border:1px solid white;
+}
+#type tr:hover{
+    background-color:gray;
+}
+#type h2{
+    margin:3px;
+}
+#type h2 a{
+    color:white;
+    text-decoration:none;
+}
+#logo{
+    content:url("./DPM_Logo.png");
+    width:35px;
+    border-radius:10px;
+    border:1px solid white;
+}
